@@ -48,7 +48,7 @@ Currently exploring:
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **Ops-Assist AI** | AI-powered incident analyzer for DevOps logs | FastAPI · Celery · PostgreSQL · React | [Repo](https://github.com/almamun-git/Ops-Assist-AI) |
-| **AutoVidAI Engine** | Automated AI-based social media video generator | Python · FastAPI · Gemini · ElevenLabs · Pexels | [Repo](https://github.com/almamun-git/autovidai-engine) |
+| **Automatic Video Generating AI Engine** | Automated AI-based social media video generator | Python · FastAPI · Gemini · ElevenLabs · Pexels | [Repo](https://github.com/almamun-git/autovidai-engine) |
 | **FileLocker** | Secure file-storage encryption & access control | Python · Django REST · AWS S3 | [Repo](https://github.com/almamun-git/FileLocker) |
 | **To-Do App** | Clean architecture production-ready to-do list app | React · Next.js · Tailwind CSS · Node.js | [Repo](https://github.com/almamun-git/to-do) |
 
