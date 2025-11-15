@@ -92,13 +92,6 @@ I focus on solving real problems with modern web technologies and strong develop
 - Email: <strong>almamun.codes@gmail.com</strong>  
 <!-- Optional: Add Resume link -->
 
----
-
-## 🧪 Fun (Widgets)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almamun-git&radius=12&theme=github-compact" alt="GitHub activity graph for almamun-git" />
-
----
 
 <p align="center">
   Made with ❤️ • Last updated: <!--AUTO:DATE-->
