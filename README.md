@@ -40,20 +40,7 @@ I focus on solving real problems with modern web technologies and strong develop
 - <strong>AI / Media:</strong> Google Gemini API · ElevenLabs · Pexels API · OpenAI Whisper  
 - <strong>Other:</strong> REST APIs · OpenAPI · Clean Architecture · CI/CD
 
----
 
-## 📌 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| <strong>Ops‑Assist AI</strong> | AI‑powered incident analyzer for DevOps logs. Helps reduce triage time and surface anomalies faster. | FastAPI · Celery · PostgreSQL · React | [Repo](https://github.com/almamun-git/Ops-Assist-AI) · <!-- TODO: add Demo link if available --> |
-| <strong>Automatic Video Generating AI Engine</strong> | Automated AI‑based social media video generator with TTS and asset sourcing. | Python · FastAPI · Google Gemini · ElevenLabs · Pexels | [Repo](https://github.com/almamun-git/autovidai) <!-- TODO: verify this link --> |
-| <strong>FileLocker</strong> | Secure file storage with encryption & access control. | Python · Django REST Framework · AWS S3 | [Repo](https://github.com/almamun-git/FileLocker) |
-| <strong>To‑Do App</strong> | Clean‑architecture, production‑ready to‑do application. | React · Next.js · Tailwind CSS · Node.js | [Repo](https://github.com/almamun-git/to-do) |
-
-<!-- Optional: add GIFs or screenshots under each project using <details> for collapsible previews -->
-
----
 
 ## 📊 GitHub Stats
 
@@ -94,5 +81,5 @@ I focus on solving real problems with modern web technologies and strong develop
 
 
 <p align="center">
-  Made with ❤️ • Last updated: <!--AUTO:DATE-->
+  Made with ❤️ <!--AUTO:DATE-->
 </p>
