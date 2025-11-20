@@ -80,6 +80,4 @@ I focus on solving real problems with modern web technologies and strong develop
 <!-- Optional: Add Resume link -->
 
 
-<p align="center">
-  Made with ❤️ <!--AUTO:DATE-->
-</p>
+
