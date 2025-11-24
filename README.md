@@ -1,7 +1,7 @@
 <!-- Profile README for @almamun-git -->
 <!-- Use https://github.com/almamun-git/almamun-git as the special profile repo -->
 
-<h1 align="center">Hi, I'm Apu (Abdullah Al Mamun) 👋</h1>
+<h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center"><strong>Full‑stack developer specializing in AI‑powered automation, clean architecture, and developer tooling.</strong></p>
 
 <p align="center">
