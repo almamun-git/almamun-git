@@ -41,27 +41,6 @@ I focus on solving real problems with modern web technologies and strong develop
 - <strong>Other:</strong> REST APIs · OpenAPI · Clean Architecture · CI/CD
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/almamun-git">
-  <img alt="Apu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=almamun-git&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165" />
-</a>
-
-<a href="https://github.com/almamun-git">
-  <img alt="Apu's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=almamun-git&theme=transparent&hide_border=true" height="165" />
-</a>
-
-<a href="https://github.com/almamun-git">
-  <img alt="Top languages used by Apu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamun-git&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" />
-</a>
-
-</div>
-
----
-
 ## 🗂️ Highlighted Topics
 
 - 🔐 Authentication & security best practices  
