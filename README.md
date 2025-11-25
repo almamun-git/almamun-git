@@ -4,15 +4,6 @@
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center"><strong>Full‑stack developer specializing in AI‑powered automation, clean architecture, and developer tooling.</strong></p>
 
-<p align="center">
-  <a href="https://github.com/almamun-git?tab=followers">
-    <img src="https://img.shields.io/github/followers/almamun-git?label=Followers&style=flat&color=0e75b6" alt="GitHub followers badge" />
-  </a>
-  <a href="https://github.com/almamun-git">
-    <img src="https://komarev.com/ghpvc/?username=almamun-git&style=flat&color=brightgreen" alt="Profile views counter" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
