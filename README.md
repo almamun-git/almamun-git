@@ -44,7 +44,7 @@ I focus on solving real problems with modern web technologies and strong develop
 
 ## 💬 Contact
 
-- Portfolio: <strong>https://www.mamunapu.tech</strong>  
+- Portfolio: <strong>https://abdulla.tech/</strong>  
 - LinkedIn: <strong>https://linkedin.com/in/almamun-in</strong>  
 - Email: <strong>almamun.codes@gmail.com</strong>  
 <!-- Optional: Add Resume link -->
